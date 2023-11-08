@@ -1,0 +1,17 @@
+h1{
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    /* border: 3px solid green;  */
+    margin: 0;
+}
+
+b{
+    color: red;
+}
+
+body{
+    height: 100vh;
+}
